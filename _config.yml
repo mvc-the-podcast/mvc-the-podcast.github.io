@@ -1,0 +1,11 @@
+# Site settings
+title: MVC the Podcast
+email: mvcthepodcast@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Two software engineers casually chat about this week's news in technology. We assume you can code.
+baseurl: "" # the subpath of your site, e.g. /blog/url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://mvc-the-podcast.github.io" # the base hostname & protocol for your site
+github_username: mvc-the-podcast 
+
+# Build settings
+markdown: kramdown
