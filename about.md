@@ -8,5 +8,7 @@ Marty ([@martystepp](http://twitter.com/martystepp)) is a computer science lectu
 
 Victoria ([@bictolia](http://twitter.com/bictolia)) is a senior software engineer at Google.
 
-Together they form MVC: Marty Victoria Conversations! Every week Marty and Victoria casually chat about technology and stuff in the news. Sometimes ranty. Sometimes ragey. Always with spotty audio quality.
+Together they form MVC: Marty Victoria Conversations!
+
+Join them each week as Marty and Victoria casually chat about technology and stuff in the news. Sometimes ranty. Sometimes ragey. Always with spotty audio quality.
 
