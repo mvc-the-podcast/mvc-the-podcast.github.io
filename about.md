@@ -10,5 +10,5 @@ Victoria ([@bictolia](http://twitter.com/bictolia)) is a senior software enginee
 
 Together they form MVC: Marty Victoria Conversations!
 
-Join them each week as Marty and Victoria casually chat about technology and stuff in the news. Sometimes ranty. Sometimes ragey. Always with spotty audio quality.
+Join them each week as Marty and Victoria casually chat about technology and stuff in the news. Sometimes ranty. Sometimes ragey. Always kind of spotty with the audio quality.
 
