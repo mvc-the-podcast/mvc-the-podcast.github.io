@@ -2,7 +2,6 @@
 layout: post
 title:  "Episode 6: Open source or ... nope-n source"
 date:   2015-10-12 08:00:00
-categories: technology open-source buzzfeed facebook 
 ---
 
 Victoria and Marty break down a bunch of different topics this week, including...

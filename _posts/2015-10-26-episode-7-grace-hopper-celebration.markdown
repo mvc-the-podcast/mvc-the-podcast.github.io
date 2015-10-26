@@ -2,7 +2,6 @@
 layout: post
 title:  "Episode 7: Grace Hopper Celebration"
 date:   2015-10-26 08:00:00
-categories: technology grace-hopper women-in-tech
 ---
 
 Marty listens as Victoria and special guest Cynthia share their experiences at Grace Hopper Celebration 2015, a three day conference celebrating women in technology. Cynthia is a computer science lecturer at Stanford alongside Marty - we hope she'll be a regular guest on the show! :)
