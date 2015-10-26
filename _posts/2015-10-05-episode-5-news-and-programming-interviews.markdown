@@ -2,7 +2,6 @@
 layout: post
 title:  "Episode 5: News and programming interviews"
 date:   2015-10-05 08:00:00
-categories: technology education interview 
 ---
 
 In this episode, Marty and Victoria discuss assignment-style interviews, reiterate that programming must be taught in K-12, and Victoria further outs herself as the anti-Geek.

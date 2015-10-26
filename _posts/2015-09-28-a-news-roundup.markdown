@@ -2,7 +2,6 @@
 layout: post
 title:  "Episode 4: A news roundup"
 date:   2015-09-28 08:00:00
-categories: technology java8 netflix 
 ---
 
 Marty and Victoria talk about their respective weeks in tech, Marty gives an update on the newest edition of the Java book, and Marty and Victoria give quick round up of tech news.
