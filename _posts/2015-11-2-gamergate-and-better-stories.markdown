@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Episode 8: Gamergate at SXSW, followed by happier news"
+title:  "Episode 8: Gamergate at SXSW, followed by happier things"
 date:   2015-11-02 08:00:00
 comments: true
 ---
