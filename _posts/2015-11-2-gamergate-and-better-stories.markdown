@@ -29,7 +29,7 @@ In this episode, Marty and Victoria feel depressed over the mess at SXSW regardi
 
 - SXSW’s GamerGate Debacle :Diversity <http://www.slate.com/articles/double_x/doublex/2015/10/sxsw_canceled_panels_here_is_what_happened.html> <http://www.thedailybeast.com/articles/2015/10/27/this-is-not-a-game-how-sxsw-turned-gamergate-abuse-into-a-spectator-sport.html>
 
-  Update: SXSW announces [online harassment summit](http://www.sxsw.com/news/2015/sxsw-announces-march-12-online-harassment-summit) to try to make PR amends, but their actions show they still [do not get it](http://recode.net/2015/10/30/sxsw-bungles-announcement-of-online-harassment-summit-and-panelists-are-pulling-out/) 
+  Update: SXSW announces [online harassment summit](http://www.sxsw.com/news/2015/sxsw-announces-march-12-online-harassment-summit) to try to make PR amends, but their actions show they still [do not get it](http://recode.net/2015/10/30/sxsw-bungles-announcement-of-online-harassment-summit-and-panelists-are-pulling-out/)  &lt;/victoria editorializing&gt;
 
   ![not sorry](/assets/rihanna-not-sorry.gif)
 
