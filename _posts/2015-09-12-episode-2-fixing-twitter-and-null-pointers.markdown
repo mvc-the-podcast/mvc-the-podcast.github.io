@@ -2,6 +2,7 @@
 layout: post
 title:  "Episode 2: Fixing Twitter and Null Pointers"
 date:   2015-09-12 08:00:00
+comments: true
 ---
 
 In this episode, Marty and Victoria take many words to decide whether Twitter needs "fixing", then take even more words to judge C#'s proposal to add non-nullable references to the 7th edition of the language.

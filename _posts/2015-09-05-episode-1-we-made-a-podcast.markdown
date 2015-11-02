@@ -2,6 +2,7 @@
 layout: post
 title:  "Episode 1: We made a podcast"
 date:   2015-09-05 08:00:00
+comments: true
 ---
 
 In our inaugural episode, Marty and Victoria assess whether you have to be good at math to be good at coding, how Ashley Madison could have prevented getting owned, and how it's cool Flash is fading away from the interwebs.

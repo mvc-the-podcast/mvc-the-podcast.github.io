@@ -2,6 +2,7 @@
 layout: post
 title:  "Episode 8: Gamergate at SXSW, followed by happier things"
 date:   2015-11-02 08:00:00
+comments: true
 ---
 
 In this episode, Marty and Victoria feel depressed over the mess at SXSW regarding Gamergate and online harassment, then move onto a different kind of startup accelerator, cars that are auto-updated to include new features, and coding academies.
@@ -42,3 +43,8 @@ In this episode, Marty and Victoria feel depressed over the mess at SXSW regardi
   - [Flatiron School](http://flatironschool.com/)
   - Interesting article on salary bumps after coding schools: <http://readwrite.com/2015/10/27/coding-bootcamp-school>
 
+# Send us questions and feedback!
+
+Would love to hear from you if you have any questions you'd like us to answer, topics you'd like us to discuss, feedback for the show, or any other comments! 
+
+Reach out at <mvcthepodcast@gmail.com>, or hit us up in the comment section. Thanks for listening!

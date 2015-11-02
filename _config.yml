@@ -7,5 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/url: "http://yourdomain.com" 
 url: "http://mvc-the-podcast.github.io" # the base hostname & protocol for your site
 github_username: mvc-the-podcast 
 
+disqusid: mvcthepodcast
+
 # Build settings
 markdown: kramdown
