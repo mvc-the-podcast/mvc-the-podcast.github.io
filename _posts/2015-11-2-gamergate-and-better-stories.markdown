@@ -43,6 +43,8 @@ In this episode, Marty and Victoria feel depressed over the mess at SXSW regardi
   - [Flatiron School](http://flatironschool.com/)
   - Interesting article on salary bumps after coding schools: <http://readwrite.com/2015/10/27/coding-bootcamp-school>
 
+- lolwhoops the article we didn't get to but will address next time: <https://medium.com/featured-insights/is-qa-dead-f1aa21b3f8b8>
+
 # Send us questions and feedback!
 
 Would love to hear from you if you have any questions you'd like us to answer, topics you'd like us to discuss, feedback for the show, or any other comments! 
