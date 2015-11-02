@@ -12,8 +12,10 @@ In this episode, Marty and Victoria feel depressed over the mess at SXSW regardi
 # What Victoria's up to
 
 - Victoria has been playing with [Jekyll](https://jekyllrb.com/): A static site generator that does a good job of balancing the amount of control over your blog vs the headache of configuration.
+  Hosted using [Github Pages](https://pages.github.com/)!
 
 ![Jekyll logo](/assets/jekyll.png)
+
 
 - And went to an [ABI.Local meeting](http://local.anitaborg.org/)
 
