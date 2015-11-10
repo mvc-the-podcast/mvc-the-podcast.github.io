@@ -9,6 +9,12 @@ This week, Marty and Victoria introduce a new segment tentatively titled "Thumbs
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/232436838&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
+# What Marty's up to
+
+- Passing back midterms in [CS 106B](http://web.stanford.edu/class/cs106b/)
+
+<iframe src="https://vine.co/v/ODQlda9A9Xr/embed/simple" width="300" height="300" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
+
 # What Victoria's up to
 
 - Utilizing social media to be [hashtag-popular](https://www.instagram.com/p/9dwToDQ_8d/)
@@ -16,12 +22,6 @@ This week, Marty and Victoria introduce a new segment tentatively titled "Thumbs
 - Writing boilerplate code :(
 
 - Suffering long [compile times](https://xkcd.com/303/) :( :( 
-
-# What Marty's up to
-
-- Passing back midterms in [CS 106B](http://web.stanford.edu/class/cs106b/)
-
-<iframe src="https://vine.co/v/ODQlda9A9Xr/embed/simple" width="300" height="300" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
 
 # Thumbs-up, thumbs-down
 
