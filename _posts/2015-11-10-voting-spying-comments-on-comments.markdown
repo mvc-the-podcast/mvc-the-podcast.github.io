@@ -45,7 +45,7 @@ A new segment where we give a "quick" up or down vote to nerdy or tangentially t
 
 - Recent local elections in San Francisco: Prop A, I, and F
   - [NYT: Airbnb and Uber Mobilize Vast User Base to Sway Policy](http://www.nytimes.com/2015/11/05/technology/airbnb-and-uber-mobilize-vast-user-base-to-sway-policy.html?_r=0) 
-  - [After Victory, Airbnb Compares Its Influence to the NRA’s](www.wired.com/2015/11/after-victory-airbnb-compares-its-influence-to-the-nras/)
+  - [After Victory, Airbnb Compares Its Influence to the NRA’s](http://www.wired.com/2015/11/after-victory-airbnb-compares-its-influence-to-the-nras/)
 
 - UK Investigatory Powers Bill
   - [BBC news: Details of UK website visits 'to be stored for year'](http://www.bbc.com/news/uk-politics-34715872)
