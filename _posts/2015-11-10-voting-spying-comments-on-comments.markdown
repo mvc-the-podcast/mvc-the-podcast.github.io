@@ -15,6 +15,8 @@ This week, Marty and Victoria introduce a new segment tentatively titled "Thumbs
 
 <iframe src="https://vine.co/v/ODQlda9A9Xr/embed/simple" width="300" height="300" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
 
+- Causing trouble on [Yik Yak](http://www.yikyakapp.com/)
+
 # What Victoria's up to
 
 - Utilizing social media to be [hashtag-popular](https://www.instagram.com/p/9dwToDQ_8d/)
