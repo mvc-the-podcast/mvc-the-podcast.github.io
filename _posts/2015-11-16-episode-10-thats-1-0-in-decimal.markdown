@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Episode 10: Episode 10: That's 1-0 in decimal!"
+title:  "Episode 10: That's 1-0 in decimal!"
 date:   2015-11-16 08:00:00
 comments: true
 ---
