@@ -25,7 +25,9 @@ Marty and Victoria talk about advances in graph theory, the rumored stagnation o
 
 # Thumbs-up, thumbs-down
 
-...We actually recorded this but then cut it for time! Will be released as a bonus track. Stay tuned to hear our thoughts on smart gadgets and stuffing.
+...We actually recorded this but then cut it for time! Released as a bonus track:
+
+<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/234691665&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
 
 # News Roundup
 - [A Quasipolynomial Time Algorithm for Graph Isomorphism](http://jeremykun.com/2015/11/12/a-quasipolynomial-time-algorithm-for-graph-isomorphism-the-details/)
