@@ -13,7 +13,7 @@ Marty and Victoria give their take on Secret Santa, Bitcoin, Gigster, and other 
 
 # What Marty's up to
 - Turning in course grades and crushing dreams
-- Marty's students, upon receiving a B:
+- Marty's students, upon receiving a B:<br/>
 ![upon getting a B](/assets/on-the-floor.gif)
 
 # What Victoria's up to
@@ -54,9 +54,8 @@ We got a wonderful listener question about mentorship!
 
 - Is mentorship important?
 - How often do you meet, what do you discuss, who have you picked?
-- Yoda, the ultimate mentor
-
-  ![sometimes someone needs to say it](http://i.giphy.com/tpiXQIuC9kKYg.gif)
+- Yoda, the ultimate mentor<br/>
+![sometimes someone needs to say it](http://i.giphy.com/tpiXQIuC9kKYg.gif)
 
 # Send us questions and feedback!
 
